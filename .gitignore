@@ -1,0 +1,7 @@
+#忽略.js文件
+*.js
+#忽略单个文档
+# index.html
+#选中base.js
+!base.js
+# test/
